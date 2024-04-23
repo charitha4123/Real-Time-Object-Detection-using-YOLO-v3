@@ -1,5 +1,6 @@
 # Real-Time-Object-Detection-using-YOLO-v3
-**Project: **
+
+**Project:**
 
 Real-Time Object Detection with YOLO
 This project implements real-time object detection using the You Only Look Once (YOLO) algorithm, a fast and efficient deep learning approach for computer vision tasks.
